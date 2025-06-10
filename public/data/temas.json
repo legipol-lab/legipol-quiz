@@ -1,0 +1,227 @@
+[
+  {
+    "id": "Tema 01",
+    "nombre": "El Derecho: Concepto y acepciones.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 02",
+    "nombre": "La Constitución Española (I): Estructura y caracteres de la Constitución Española de 1978.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 03",
+    "nombre": "La Constitución Española (II): De la Corona.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 04",
+    "nombre": "La Unión Europea.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 05",
+    "nombre": "La organización y funcionamiento de la Administración General del Estado.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 06",
+    "nombre": "Los funcionarios públicos.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 07",
+    "nombre": "El Ministerio del Interior.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 08",
+    "nombre": "La Dirección General de la Policía.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 09",
+    "nombre": "La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 10",
+    "nombre": "Entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 11",
+    "nombre": "De las infracciones en materia de extranjería y su régimen sancionador.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 12",
+    "nombre": "La protección internacional.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 13",
+    "nombre": "Disposiciones generales en materia de seguridad privada en España.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 14",
+    "nombre": "La Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 15",
+    "nombre": "Medidas para la Protección de Infraestructuras Críticas.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 16",
+    "nombre": "Derecho Penal Parte General.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 17",
+    "nombre": "Derecho Penal Especial: Del homicidio y sus formas.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 18",
+    "nombre": "Delitos contra el patrimonio y contra el orden socioeconómico.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 19",
+    "nombre": "Delitos contra el orden público.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 20",
+    "nombre": "Delitos informáticos.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 21",
+    "nombre": "Noción de Derecho Procesal Penal.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 22",
+    "nombre": "La Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 23",
+    "nombre": "Políticas de igualdad, protección y no discriminación en la AGE.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 24",
+    "nombre": "Introducción a la Prevención de Riesgos Laborales.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 25",
+    "nombre": "Marco normativo básico en prevención de riesgos laborales.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 26",
+    "nombre": "La protección de datos de carácter personal.",
+    "area": "Ciencias Jurídicas"
+  },
+  {
+    "id": "Tema 27",
+    "nombre": "Derechos Humanos. Declaración Universal de Derechos Humanos.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 28",
+    "nombre": "Globalización y antiglobalización.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 29",
+    "nombre": "Actitudes y valores sociales.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 30",
+    "nombre": "Principios éticos de la sociedad actual.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 31",
+    "nombre": "Inmigración.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 32",
+    "nombre": "Concepto de geografía humana.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 33",
+    "nombre": "La seguridad.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 34",
+    "nombre": "Drogodependencias.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 35",
+    "nombre": "El desarrollo sostenible.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 36",
+    "nombre": "Gramática de la lengua española.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 37",
+    "nombre": "Ortografía de la lengua española.",
+    "area": "Ciencias Sociales"
+  },
+  {
+    "id": "Tema 38",
+    "nombre": "Fundamentos de sistemas operativos.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 39",
+    "nombre": "Redes informáticas.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 40",
+    "nombre": "Inteligencia: Dato, información e inteligencia.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 41",
+    "nombre": "Ciberdelincuencia y agentes de la Amenaza.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 42",
+    "nombre": "Origen de las armas de fuego.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 43",
+    "nombre": "El vehículo prioritario.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 44",
+    "nombre": "La Seguridad en la Conducción de Vehículos Prioritarios.",
+    "area": "Materias Técnico-Científicas"
+  },
+  {
+    "id": "Tema 45",
+    "nombre": "Prevención de Riesgos Laborales en Seguridad Vial.",
+    "area": "Materias Técnico-Científicas"
+  }
+]

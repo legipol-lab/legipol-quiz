@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "1",
+    "question": "¿Qué derechos pueden ser suspendidos durante un estado de sitio en España?",
+    "explanation": "En situaciones extremas de amenaza al orden constitucional, como el estado de sitio, ciertos derechos pueden suspenderse temporalmente para mantener la seguridad pública, incluyendo los derechos de reunión y circulación.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "1.1",
+        "answer": "Derecho a la vida y la dignidad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "1.2",
+        "answer": "Derecho de reunión y circulación",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "1.3",
+        "answer": "Derecho a la educación y el trabajo",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "¿Quién puede presentar un recurso de inconstitucionalidad en España?",
+    "explanation": "El Defensor del Pueblo, entre otros, tiene la capacidad de presentar un recurso de inconstitucionalidad ante el Tribunal Constitucional si considera que una ley vulnera los derechos fundamentales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "2.1",
+        "answer": "El Defensor del Pueblo",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "2.2",
+        "answer": "Cualquier ciudadano",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "2.3",
+        "answer": "Solo el Tribunal Constitucional",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "¿Cuál es la duración máxima inicial de un estado de alarma en España?",
+    "explanation": "El estado de alarma puede durar un máximo de 15 días y, para ser prorrogado, requiere la autorización del Congreso, garantizando un control parlamentario.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "3.1",
+        "answer": "30 días",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "3.2",
+        "answer": "15 días",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "3.3",
+        "answer": "45 días",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "¿Qué órgano es responsable de garantizar el respeto a los derechos fundamentales en España?",
+    "explanation": "El Tribunal Constitucional vela por la protección de los derechos fundamentales y resuelve conflictos de constitucionalidad.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "4.1",
+        "answer": "El Congreso",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "4.2",
+        "answer": "El Tribunal Supremo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "4.3",
+        "answer": "El Tribunal Constitucional",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "question": "¿Qué principio se asegura mediante el artículo 9.3 de la Constitución?",
+    "explanation": "El principio de legalidad garantiza que tanto ciudadanos como autoridades públicas actúen dentro del marco de la ley, evitando la arbitrariedad.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "5.1",
+        "answer": "El principio de igualdad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "5.2",
+        "answer": "El principio de legalidad",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "5.3",
+        "answer": "El derecho al trabajo",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "question": "¿Qué derechos protege el artículo 24 de la Constitución Española?",
+    "explanation": "El artículo 24 garantiza que todos los ciudadanos tengan acceso a la justicia y que sus derechos puedan ser defendidos mediante procedimientos legales justos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "6.1",
+        "answer": "Derecho a la propiedad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "6.2",
+        "answer": "Derecho a la educación",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "6.3",
+        "answer": "Derecho a la tutela judicial efectiva",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "question": "¿Qué establece el artículo 47 de la Constitución sobre la vivienda?",
+    "explanation": "El artículo 47 reconoce el derecho a una vivienda digna, y corresponde a los poderes públicos promover las condiciones para su acceso.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "7.1",
+        "answer": "Que el Estado puede expropiar viviendas",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "7.2",
+        "answer": "Que toda persona tiene derecho a una propiedad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "7.3",
+        "answer": "Que todos tienen derecho a una vivienda digna",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "question": "¿Cuál es la función del Defensor del Pueblo?",
+    "explanation": "El Defensor del Pueblo supervisa las administraciones para garantizar que respeten los derechos de los ciudadanos y actúa como mediador en caso de abusos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "8.1",
+        "answer": "Proteger los derechos fundamentales frente a la administración pública",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "8.2",
+        "answer": "Crear leyes para proteger los derechos",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "8.3",
+        "answer": "Resolver conflictos entre ciudadanos",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "question": "¿Qué principio asegura la protección del medio ambiente según la Constitución?",
+    "explanation": "La Constitución incluye el derecho a disfrutar de un medio ambiente adecuado y la obligación de protegerlo.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "9.1",
+        "answer": "Principio de igualdad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "9.2",
+        "answer": "Principio de solidaridad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "9.3",
+        "answer": "Principio de sostenibilidad ambiental",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "question": "¿Cuáles son las garantías normativas de los derechos fundamentales en la Constitución?",
+    "explanation": "Los derechos fundamentales son de aplicación directa, y solo pueden ser regulados mediante leyes orgánicas aprobadas por mayoría absoluta.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "10.1",
+        "answer": "Requieren autorización judicial",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "10.2",
+        "answer": "Aplicación directa y reserva de ley",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "10.3",
+        "answer": "Dependencia de los reglamentos locales",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "question": "¿Qué órgano puede suspender los derechos de comunicación en caso de terrorismo?",
+    "explanation": "Para luchar contra el terrorismo, el Tribunal Constitucional permite la suspensión de ciertos derechos de comunicación en casos muy específicos y bajo control judicial.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "11.1",
+        "answer": "El Senado",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "11.2",
+        "answer": "El Tribunal Constitucional",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "11.3",
+        "answer": "El Consejo de Ministros",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "question": "¿Qué es el recurso de amparo?",
+    "explanation": "El recurso de amparo permite a los ciudadanos recurrir al Tribunal Constitucional si sus derechos fundamentales han sido vulnerados por alguna autoridad.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "12.1",
+        "answer": "Una apelación de multas administrativas",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "12.2",
+        "answer": "Un recurso que protege derechos fundamentales ante el Tribunal Constitucional",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "12.3",
+        "answer": "Un recurso contra sentencias civiles",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "question": "¿Qué función tiene la Ley Orgánica en la Constitución?",
+    "explanation": "Las leyes orgánicas son necesarias para regular los derechos fundamentales y tienen un carácter especial, requiriendo mayoría absoluta para su aprobación.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "13.1",
+        "answer": "Regular la educación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "13.2",
+        "answer": "Regular derechos fundamentales y libertades públicas",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "13.3",
+        "answer": "Supervisar las funciones del Presidente",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "question": "¿Qué establece el artículo 117 sobre el Poder Judicial?",
+    "explanation": "El artículo 117 garantiza la independencia del Poder Judicial, esencial para la imparcialidad y la justicia en el Estado de Derecho.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "14.1",
+        "answer": "Depende del Poder Ejecutivo",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "14.2",
+        "answer": "Está vinculado a decisiones del Parlamento",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "14.3",
+        "answer": "Es independiente",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "question": "¿Qué garantiza el artículo 18 en cuanto a la intimidad?",
+    "explanation": "Este artículo protege la intimidad de las personas, garantizando que el domicilio sea inviolable salvo con orden judicial.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "15.1",
+        "answer": "Solo en la esfera pública",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "15.2",
+        "answer": "Protección solo de la propiedad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "15.3",
+        "answer": "Derecho a la inviolabilidad del domicilio",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "question": "¿Cuál es la duración del mandato del Defensor del Pueblo?",
+    "explanation": "El Defensor del Pueblo es elegido por cinco años para garantizar su independencia y estabilidad en la defensa de los derechos ciudadanos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "16.1",
+        "answer": "Cinco años",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "16.2",
+        "answer": "Tres años",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "16.3",
+        "answer": "Diez años",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "question": "¿Cuál es una función clave del Senado?",
+    "explanation": "El Senado representa a las comunidades autónomas y tiene una función revisora de las leyes, velando por los intereses territoriales en el Parlamento.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "17.1",
+        "answer": "Representación territorial",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "17.2",
+        "answer": "Aprobar exclusivamente leyes autonómicas",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "17.3",
+        "answer": "Ejercer control sobre el poder judicial",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "question": "¿Cuál de estos principios se aplica a los funcionarios públicos?",
+    "explanation": "Todos los funcionarios públicos están sujetos al principio de legalidad, actuando siempre dentro del marco de la ley.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "18.1",
+        "answer": "Arbitrio propio",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "18.2",
+        "answer": "Derecho a emitir decretos",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "18.3",
+        "answer": "Principio de legalidad",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "question": "¿Qué derecho garantiza la tutela judicial efectiva?",
+    "explanation": "La tutela judicial efectiva asegura que todos puedan defender sus derechos en los tribunales, con garantías procesales como la defensa legal.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "19.1",
+        "answer": "Derecho a un juicio justo y a un defensor",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "19.2",
+        "answer": "Derecho a cualquier tipo de representación",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "19.3",
+        "answer": "Solo el derecho a presentar quejas",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "question": "¿Qué debe hacer el Tribunal Constitucional con una ley que contradice la Constitución?",
+    "explanation": "El Tribunal Constitucional tiene la potestad de declarar inconstitucional cualquier ley que contravenga la Constitución, invalidándola en consecuencia.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "20.1",
+        "answer": "Declararla inconstitucional",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "20.2",
+        "answer": "Presentarla al Parlamento para revisión",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "20.3",
+        "answer": "Modificarla parcialmente",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "question": "¿Qué artículo establece la independencia del Poder Judicial?",
+    "explanation": "La independencia del Poder Judicial está consagrada en el artículo 117, asegurando que los jueces y tribunales actúen sin interferencias.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "21.1",
+        "answer": "Artículo 14",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "21.2",
+        "answer": "Artículo 23",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "21.3",
+        "answer": "Artículo 117",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "question": "¿Cuál es la función del recurso de inconstitucionalidad?",
+    "explanation": "Este recurso permite evaluar la constitucionalidad de una ley, asegurando que ninguna norma vulnere los principios fundamentales de la Constitución.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "22.1",
+        "answer": "Cambiar una ley",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "22.2",
+        "answer": "Evaluar si una ley se ajusta a la Constitución",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "22.3",
+        "answer": "Derogar leyes sin motivo",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "question": "¿Qué garantiza el derecho de petición?",
+    "explanation": "El derecho de petición permite a los ciudadanos dirigirse a las autoridades para hacer solicitudes o expresar quejas formalmente.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "23.1",
+        "answer": "Exigir una reunión pública",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "23.2",
+        "answer": "Solicitar información y realizar quejas a las autoridades",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "23.3",
+        "answer": "Votar en referéndum",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "question": "¿Qué órgano tiene la última palabra en la constitucionalidad de las leyes?",
+    "explanation": "El Tribunal Constitucional es el máximo órgano encargado de interpretar y velar por el cumplimiento de la Constitución.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "24.1",
+        "answer": "El Congreso",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "24.2",
+        "answer": "El Tribunal Constitucional",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "24.3",
+        "answer": "El Senado",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "question": "¿Qué derecho protege la libertad de conciencia?",
+    "explanation": "La libertad ideológica y religiosa permite a cada individuo vivir según sus propias convicciones y creencias, sin coacción.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "25.1",
+        "answer": "Libertad ideológica y religiosa",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "25.2",
+        "answer": "Libertad de asociación",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "25.3",
+        "answer": "Libertad de expresión",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "question": "¿Qué se requiere para una reforma constitucional en derechos fundamentales?",
+    "explanation": "Las reformas que afectan a derechos fundamentales necesitan un proceso agravado, incluyendo una mayoría cualificada y consulta popular.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "26.1",
+        "answer": "Mayoría simple",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "26.2",
+        "answer": "Mayoría de dos tercios y referéndum",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "26.3",
+        "answer": "Mayoría en el Senado",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "question": "¿Cuál es la duración máxima de un estado de excepción?",
+    "explanation": "El estado de excepción puede durar hasta 30 días y puede prorrogarse con la autorización del Congreso en situaciones graves.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "27.1",
+        "answer": "30 días",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "27.2",
+        "answer": "15 días",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "27.3",
+        "answer": "45 días",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "question": "¿Qué principio asegura la estabilidad y confianza en el sistema jurídico?",
+    "explanation": "La seguridad jurídica garantiza que el sistema legal sea predecible, permitiendo que los ciudadanos confíen en las leyes y sus derechos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "28.1",
+        "answer": "Principio de intervención",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "28.2",
+        "answer": "Principio de seguridad jurídica",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "28.3",
+        "answer": "Principio de fiscalización",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "question": "¿Qué derechos no pueden suspenderse en ningún estado de emergencia?",
+    "explanation": "Derechos fundamentales como el derecho a la vida y la prohibición de tortura son inviolables, incluso en situaciones de emergencia.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "29.1",
+        "answer": "Derecho a la circulación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "29.2",
+        "answer": "Derecho a la vida y prohibición de tortura",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "29.3",
+        "answer": "Derecho de reunión",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "question": "¿Qué artículo de la Constitución regula el derecho de manifestación?",
+    "explanation": "El artículo 21 protege el derecho de reunión pacífica y sin armas, fundamental para la participación democrática.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "30.1",
+        "answer": "Artículo 10",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "30.2",
+        "answer": "Artículo 21",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "30.3",
+        "answer": "Artículo 25",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "question": "La Constitución de 1978 fue aprobada en referéndum por el pueblo español el:",
+    "explanation": "El referéndum constitucional se celebró el 6 de diciembre de 1978 y fue respaldado por la mayoría de los votantes, lo que legitimó democráticamente el nuevo texto constitucional.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "31.1",
+        "answer": "31 de octubre de 1978",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "31.2",
+        "answer": "27 de diciembre de 1978",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "31.3",
+        "answer": "6 de diciembre de 1978",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "question": "¿Cuál es la función principal del Preámbulo de la Constitución?",
+    "explanation": "Aunque no tiene valor normativo, el Preámbulo resume los principios y valores que inspiran la Constitución, como la convivencia, justicia y libertad.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "32.1",
+        "answer": "Establecer las normas aplicables",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "32.2",
+        "answer": "Exponer los valores e intenciones del texto constitucional",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "32.3",
+        "answer": "Crear derechos fundamentales",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "question": "Según el artículo 1, la soberanía nacional reside en:",
+    "explanation": "El artículo 1.2 establece que la soberanía reside en el pueblo, que es el titular del poder del Estado, lo que refleja el carácter democrático del sistema.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "33.1",
+        "answer": "El Congreso de los Diputados",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "33.2",
+        "answer": "El Rey",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "33.3",
+        "answer": "El pueblo español",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "question": "El reconocimiento del derecho a la autonomía se recoge en el artículo:",
+    "explanation": "El artículo 2 garantiza la unidad de la nación española y reconoce el derecho a la autonomía de nacionalidades y regiones.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "34.1",
+        "answer": "1",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "34.2",
+        "answer": "2",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "34.3",
+        "answer": "3",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "question": "La lengua oficial del Estado según la Constitución es:",
+    "explanation": "El artículo 3.1 declara el castellano como lengua oficial del Estado y reconoce las demás lenguas en sus comunidades autónomas.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "35.1",
+        "answer": "El castellano",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "35.2",
+        "answer": "El catalán",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "35.3",
+        "answer": "El gallego",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "question": "¿Cuál de los siguientes es un principio del Estado según el artículo 1.1?",
+    "explanation": "La justicia es uno de los valores superiores del ordenamiento jurídico, junto a libertad, igualdad y pluralismo político.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "36.1",
+        "answer": "Neutralidad política",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "36.2",
+        "answer": "Justicia",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "36.3",
+        "answer": "Productividad",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "question": "La bandera de España está formada por:",
+    "explanation": "La descripción oficial del artículo 4 indica que la franja amarilla tiene el doble de tamaño que las rojas.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "37.1",
+        "answer": "Tres franjas verticales de igual tamaño",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "37.2",
+        "answer": "Tres franjas horizontales, siendo la amarilla doble que las rojas",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "37.3",
+        "answer": "Dos franjas horizontales, roja y amarilla",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "question": "El Título Preliminar de la Constitución abarca los artículos:",
+    "explanation": "Incluye los principios fundamentales del Estado, como la forma política, la soberanía y el uso de las lenguas.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "38.1",
+        "answer": "1 al 5",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "38.2",
+        "answer": "1 al 7",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "38.3",
+        "answer": "1 al 9",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "question": "Las Fuerzas Armadas tienen como misión según la Constitución:",
+    "explanation": "El artículo 8 delimita claramente las funciones de las Fuerzas Armadas dentro del marco constitucional.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "39.1",
+        "answer": "Participar en la vida política",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "39.2",
+        "answer": "Garantizar la soberanía, la integridad territorial y el orden constitucional",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "39.3",
+        "answer": "Velar por la economía nacional",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "question": "El derecho de asociación está regulado en el artículo:",
+    "explanation": "El artículo 22 establece el derecho de asociarse libremente, siempre que no se persigan fines delictivos o paramilitares.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "40.1",
+        "answer": "20",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "40.2",
+        "answer": "21",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "40.3",
+        "answer": "22",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "question": "El derecho a la educación se encuentra en el artículo:",
+    "explanation": "Este artículo garantiza el derecho de todos a la educación, la libertad de enseñanza y la intervención de la sociedad en el sistema educativo.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "41.1",
+        "answer": "25",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "41.2",
+        "answer": "26",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "41.3",
+        "answer": "27",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "question": "¿Cuál de los siguientes es un derecho de carácter económico recogido en la Constitución?",
+    "explanation": "El artículo 35 reconoce el derecho al trabajo y a una remuneración digna, dentro del marco de la economía de mercado.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "42.1",
+        "answer": "Derecho a la manifestación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "42.2",
+        "answer": "Derecho al trabajo",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "42.3",
+        "answer": "Derecho a la libertad ideológica",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "question": "El Tribunal Constitucional está regulado en el Título:",
+    "explanation": "Este órgano tiene como función garantizar la supremacía de la Constitución y resolver recursos de inconstitucionalidad y amparo.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "43.1",
+        "answer": "VI",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "43.2",
+        "answer": "VII",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "43.3",
+        "answer": "IX",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "question": "¿Qué establece el artículo 14 de la Constitución?",
+    "explanation": "Este artículo consagra el principio de igualdad de todos los ciudadanos ante la ley, sin posibilidad de discriminación.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "44.1",
+        "answer": "La igualdad ante la ley sin discriminación alguna",
+        "correct": "1",
+        "ordering": "1"
+      },
+      {
+        "id": "44.2",
+        "answer": "El derecho a la libertad religiosa",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "44.3",
+        "answer": "El derecho de huelga",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "question": "El Defensor del Pueblo se regula en el artículo:",
+    "explanation": "El Defensor del Pueblo es un alto comisionado de las Cortes Generales encargado de defender los derechos constitucionales frente a la Administración.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "45.1",
+        "answer": "52",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "45.2",
+        "answer": "53",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "45.3",
+        "answer": "54",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "question": "¿En qué artículo se regula el derecho de huelga?",
+    "explanation": "El artículo 28 reconoce el derecho de huelga para la defensa de los intereses de los trabajadores, garantizando servicios esenciales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "46.1",
+        "answer": "25",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "46.2",
+        "answer": "28",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "46.3",
+        "answer": "29",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "question": "El derecho de reunión pacífica se garantiza en:",
+    "explanation": "Este artículo permite la reunión pacífica y sin armas sin autorización previa, salvo para ciertas circunstancias públicas.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "47.1",
+        "answer": "Artículo 20",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "47.2",
+        "answer": "Artículo 22",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "47.3",
+        "answer": "Artículo 21",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "question": "El artículo que garantiza la libertad de expresión es el:",
+    "explanation": "Este derecho incluye la libre expresión de pensamientos e información sin censura previa, con ciertos límites legales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "48.1",
+        "answer": "19",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "48.2",
+        "answer": "20",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "48.3",
+        "answer": "21",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "question": "El derecho a circular libremente por el territorio español está en el artículo:",
+    "explanation": "El artículo 19 establece este derecho de circulación y residencia dentro del territorio nacional y hacia el exterior.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "49.1",
+        "answer": "18",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "49.2",
+        "answer": "19",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "49.3",
+        "answer": "20",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "question": "La organización territorial de España está regulada en el Título:",
+    "explanation": "Este título configura el Estado autonómico, estableciendo municipios, provincias y comunidades autónomas.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "50.1",
+        "answer": "VII",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "50.2",
+        "answer": "IX",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "50.3",
+        "answer": "VIII",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "question": "Imagina que un ciudadano quiere expresar libremente su opinión en redes sociales. ¿Qué derecho le ampara según la Constitución?",
+    "explanation": "El artículo 20 reconoce y protege el derecho a expresar y difundir libremente pensamientos, ideas y opiniones. Este derecho es vital en una democracia y su ejercicio incluye también los medios digitales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "51.1",
+        "answer": "Derecho a la participación política",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "51.2",
+        "answer": "Derecho de petición",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "51.3",
+        "answer": "Derecho a la libertad de expresión",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "question": "¿Cuál es el órgano que puede declarar la inconstitucionalidad de una ley?",
+    "explanation": "El Tribunal Constitucional tiene la competencia exclusiva para declarar la nulidad de normas contrarias a la Constitución, asegurando su supremacía sobre todo el ordenamiento jurídico.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "52.1",
+        "answer": "El Congreso de los Diputados",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "52.2",
+        "answer": "El Tribunal Supremo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "52.3",
+        "answer": "El Tribunal Constitucional",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "question": "En caso de conflicto entre leyes autonómicas y estatales, ¿qué principio se aplica para resolverlo?",
+    "explanation": "En el Estado autonómico, la resolución de conflictos no depende de la jerarquía sino de la distribución competencial que establece la Constitución y los estatutos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "53.1",
+        "answer": "Principio de especialidad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "53.2",
+        "answer": "Principio de jerarquía normativa",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "53.3",
+        "answer": "Principio de competencia",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "question": "¿Cuál de estos derechos requiere una ley orgánica para ser regulado?",
+    "explanation": "Los derechos fundamentales, como el derecho a la libertad religiosa (art. 16), requieren una ley orgánica para su desarrollo, garantizando un debate parlamentario cualificado.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "54.1",
+        "answer": "Derecho a la educación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "54.2",
+        "answer": "Derecho a la libertad religiosa",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "54.3",
+        "answer": "Derecho a la propiedad",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "question": "Si una ley ordinaria entra en contradicción con una ley orgánica, ¿cuál prevalece?",
+    "explanation": "La ley orgánica tiene una posición superior a la ley ordinaria cuando regula materias reservadas, como derechos fundamentales. La Constitución exige mayoría absoluta para su aprobación.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "55.1",
+        "answer": "La más reciente",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "55.2",
+        "answer": "La ley orgánica",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "55.3",
+        "answer": "La que tenga mayor consenso parlamentario",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "question": "¿Qué garantía asegura que una persona no sea condenada sin pruebas ni juicio justo?",
+    "explanation": "Este derecho implica acceso a un juez, un proceso con todas las garantías, presunción de inocencia y posibilidad de recurso. Está consagrado en el artículo 24.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "56.1",
+        "answer": "Derecho de manifestación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "56.2",
+        "answer": "Derecho a la intimidad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "56.3",
+        "answer": "Derecho a la tutela judicial efectiva",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "question": "Una comunidad autónoma desea asumir una competencia nueva. ¿Qué instrumento legal debe modificar para lograrlo?",
+    "explanation": "Los Estatutos son la norma institucional básica de las comunidades autónomas, y regulan sus competencias, por lo que deben modificarse para ampliar atribuciones.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "57.1",
+        "answer": "La Constitución",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "57.2",
+        "answer": "Una ley ordinaria estatal",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "57.3",
+        "answer": "Su Estatuto de Autonomía",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "question": "¿Qué papel tiene el Rey en la promulgación de leyes?",
+    "explanation": "Según el artículo 91, el Rey tiene una función formal y simbólica, sancionando y ordenando la publicación de las leyes aprobadas por las Cortes Generales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "58.1",
+        "answer": "Veta leyes contrarias a sus intereses",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "58.2",
+        "answer": "Las redacta en Consejo de Ministros",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "58.3",
+        "answer": "Sanciona y promulga las leyes",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "question": "En el sistema constitucional español, ¿qué garantiza que nadie pueda ser obligado a declarar sobre sus ideas?",
+    "explanation": "El artículo 16 protege la libertad ideológica y religiosa, garantizando que nadie pueda ser obligado a declarar sobre sus creencias.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "59.1",
+        "answer": "Derecho de reunión",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "59.2",
+        "answer": "Derecho a la propiedad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "59.3",
+        "answer": "Derecho a la libertad ideológica",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "question": "¿Cuál es el órgano encargado de controlar el uso de fondos públicos?",
+    "explanation": "Este órgano, mencionado en el artículo 136, fiscaliza la actividad económica del Estado, velando por la legalidad y eficacia del gasto público.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "60.1",
+        "answer": "Tribunal Supremo",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "60.2",
+        "answer": "Congreso de los Diputados",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "60.3",
+        "answer": "Tribunal de Cuentas",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "question": "Si se vulnera un derecho fundamental por parte de una Administración, ¿qué recurso cabe presentar ante el Tribunal Constitucional?",
+    "explanation": "Este recurso es una garantía extraordinaria de protección de los derechos fundamentales frente a actos u omisiones de los poderes públicos.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "61.1",
+        "answer": "Recurso de revisión",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "61.2",
+        "answer": "Recurso contencioso-administrativo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "61.3",
+        "answer": "Recurso de amparo",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "question": "¿Qué principio establece que los poderes del Estado deben estar distribuidos entre órganos distintos?",
+    "explanation": "Este principio evita la concentración del poder y se manifiesta en la división entre legislativo, ejecutivo y judicial, garantizando el equilibrio institucional.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "62.1",
+        "answer": "Legalidad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "62.2",
+        "answer": "Pluralismo político",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "62.3",
+        "answer": "Separación de poderes",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "question": "En caso de que una comunidad autónoma actúe contra el interés general de España, ¿qué puede hacer el Gobierno?",
+    "explanation": "El artículo 155 permite al Gobierno actuar para obligar a una comunidad autónoma al cumplimiento de sus obligaciones constitucionales.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "63.1",
+        "answer": "Disolver el Parlamento autonómico",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "63.2",
+        "answer": "Sancionar económicamente",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "63.3",
+        "answer": "Adoptar medidas necesarias con autorización del Senado",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "question": "¿Cuál de los siguientes derechos está limitado para los miembros de las Fuerzas Armadas?",
+    "explanation": "Por razones de disciplina y estructura, el derecho a sindicarse está restringido para militares, como establece el artículo 28.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "64.1",
+        "answer": "Derecho a la educación",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "64.2",
+        "answer": "Derecho a la intimidad",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "64.3",
+        "answer": "Derecho de sindicación",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "question": "Cuando una persona es detenida, ¿cuál es el plazo máximo que puede estar privada de libertad sin pasar ante el juez?",
+    "explanation": "El artículo 17 de la Constitución limita a 72 horas la detención preventiva sin control judicial, garantizando la libertad personal.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "65.1",
+        "answer": "48 horas",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "65.2",
+        "answer": "96 horas",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "65.3",
+        "answer": "72 horas",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "question": "¿Qué establece la Constitución sobre el trabajo y la formación profesional?",
+    "explanation": "El artículo 40 encomienda a los poderes públicos promover una política que garantice la formación y el acceso al trabajo digno.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "66.1",
+        "answer": "Son competencias estatales",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "66.2",
+        "answer": "Se garantiza su promoción por los poderes públicos",
+        "correct": "1",
+        "ordering": "2"
+      },
+      {
+        "id": "66.3",
+        "answer": "Son obligatorios para todos los ciudadanos",
+        "correct": "0",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "question": "Si un español se siente discriminado por razón de sexo, ¿qué derecho está invocando?",
+    "explanation": "El artículo 14 prohíbe expresamente cualquier forma de discriminación por razón de sexo, raza, religión, opinión u otra condición.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "67.1",
+        "answer": "Derecho a la intimidad",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "67.2",
+        "answer": "Derecho al trabajo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "67.3",
+        "answer": "Derecho a la igualdad",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "question": "¿Qué institución controla la actividad del Gobierno?",
+    "explanation": "Como parte del control parlamentario, el Congreso puede exigir la responsabilidad política del Gobierno mediante interpelaciones, preguntas o la moción de censura.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "68.1",
+        "answer": "El Rey",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "68.2",
+        "answer": "El Senado",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "68.3",
+        "answer": "El Congreso de los Diputados",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "question": "¿Cuándo se considera que un derecho está suficientemente garantizado por los tribunales ordinarios?",
+    "explanation": "Solo entonces es posible acudir al Tribunal Constitucional mediante recurso de amparo, lo que asegura una protección subsidiaria.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "69.1",
+        "answer": "Cuando hay sentencia firme",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "69.2",
+        "answer": "Cuando se llega al Tribunal Supremo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "69.3",
+        "answer": "Cuando se agotan todas las vías judiciales previas",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "question": "¿Qué valor tiene la Constitución dentro del ordenamiento jurídico?",
+    "explanation": "Toda norma en España debe respetar la Constitución. Su valor superior garantiza que ninguna ley, reglamento o acto pueda contradecirla.",
+    "type": "radio",
+    "category": "TEMA 02 - LA CONSTITUCIÓN ESPAÑOLA (I) - PRIMERA VUELTA",
+    "answers": [
+      {
+        "id": "70.1",
+        "answer": "Norma secundaria",
+        "correct": "0",
+        "ordering": "1"
+      },
+      {
+        "id": "70.2",
+        "answer": "Texto declarativo",
+        "correct": "0",
+        "ordering": "2"
+      },
+      {
+        "id": "70.3",
+        "answer": "Norma suprema",
+        "correct": "1",
+        "ordering": "3"
+      }
+    ]
+  }
+]
