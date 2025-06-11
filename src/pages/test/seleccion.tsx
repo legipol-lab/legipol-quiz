@@ -2,44 +2,44 @@
 
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 
 export default function SeleccionTest() {
   const [expanded, setExpanded] = useState<string | null>(null);
   const [seleccionados, setSeleccionados] = useState<string[]>([]);
   const [numPreguntas, setNumPreguntas] = useState(20);
+  const [temporizador, setTemporizador] = useState(false);
 
-  // Tus 45 temas reales, agrupados por áreas
   const temasPorArea = {
     "Ciencias Jurídicas": [
-  "Tema 01. El Derecho: Concepto y acepciones.",
-  "Tema 02. La Constitución Española (I).",
-  "Tema 03. La Constitución Española (II).",
-  "Tema 04. La Unión Europea.",
-  "Tema 05. La AGE.",
-  "Tema 06. Los funcionarios públicos.",
-  "Tema 07. El Ministerio del Interior.",
-  "Tema 08. La Dirección General de la Policía.",
-  "Tema 09. Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad.",
-  "Tema 10. Entrada, libre circulación y residencia en España.",
-  "Tema 11. Infracciones en materia de extranjería.",
-  "Tema 12. La protección internacional.",
-  "Tema 13. Disposiciones generales en materia de seguridad privada en España.",
-  "Tema 14. Ley Orgánica 4/2015, de 30 de marzo.",
-  "Tema 15. Medidas para la Protección de Infraestructuras Críticas.",
-  "Tema 16. Derecho Penal Parte General.",
-  "Tema 17. Derecho Penal Especial: Del homicidio y sus formas.",
-  "Tema 18. Delitos contra el patrimonio y orden socioeconómico.",
-  "Tema 19. Delitos contra el orden público.",
-  "Tema 20. Delitos informáticos.",
-  "Tema 21. Noción de Derecho Procesal Penal.",
-  "Tema 22. Ley 4/2015, Estatuto de la víctima del delito.",
-  "Tema 23. Políticas de igualdad, protección y no discriminación en la AGE.",
-  "Tema 24. Introducción a la Prevención de Riesgos Laborales.",
-  "Tema 25. Marco normativo básico en prevención de riesgos laborales.",
-  "Tema 26. La protección de datos de carácter personal."
-],
+      "Tema 01. El Derecho: Concepto y acepciones.",
+      "Tema 02. La Constitución Española (I).",
+      "Tema 03. La Constitución Española (II).",
+      "Tema 04. La Unión Europea.",
+      "Tema 05. La AGE.",
+      "Tema 06. Los funcionarios públicos.",
+      "Tema 07. El Ministerio del Interior.",
+      "Tema 08. La Dirección General de la Policía.",
+      "Tema 09. Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad.",
+      "Tema 10. Entrada, libre circulación y residencia en España.",
+      "Tema 11. Infracciones en materia de extranjería.",
+      "Tema 12. La protección internacional.",
+      "Tema 13. Disposiciones generales en materia de seguridad privada en España.",
+      "Tema 14. Ley Orgánica 4/2015, de 30 de marzo.",
+      "Tema 15. Medidas para la Protección de Infraestructuras Críticas.",
+      "Tema 16. Derecho Penal Parte General.",
+      "Tema 17. Derecho Penal Especial: Del homicidio y sus formas.",
+      "Tema 18. Delitos contra el patrimonio y orden socioeconómico.",
+      "Tema 19. Delitos contra el orden público.",
+      "Tema 20. Delitos informáticos.",
+      "Tema 21. Noción de Derecho Procesal Penal.",
+      "Tema 22. Ley 4/2015, Estatuto de la víctima del delito.",
+      "Tema 23. Políticas de igualdad, protección y no discriminación en la AGE.",
+      "Tema 24. Introducción a la Prevención de Riesgos Laborales.",
+      "Tema 25. Marco normativo básico en prevención de riesgos laborales.",
+      "Tema 26. La protección de datos de carácter personal."
+    ],
     "Ciencias Sociales": [
       "Tema 27. Derechos Humanos. Declaración Universal de Derechos Humanos.",
       "Tema 28. Globalización y antiglobalización.",
@@ -64,6 +64,36 @@ export default function SeleccionTest() {
       "Tema 45. Prevención de Riesgos Laborales en Seguridad Vial."
     ]
   };
+
+  useEffect(() => {
+    const actualizarLimitePreguntas = async () => {
+      if (seleccionados.length === 0) {
+        setNumPreguntas(20);
+        return;
+      }
+
+      if (seleccionados.length === 1) {
+        const match = seleccionados[0].match(/Tema (\d+)/);
+        const numeroTema = match ? match[1].padStart(2, "0") : null;
+
+        if (numeroTema) {
+          try {
+            const data = await fetch(`/data/Tema_${numeroTema}.json`).then((res) => res.json());
+            const total = data.length;
+            setNumPreguntas((prev) => Math.min(prev, total));
+            (document.getElementById("numPreguntas") as HTMLInputElement).max = String(total);
+          } catch (error) {
+            console.error("Error al cargar preguntas del tema:", error);
+          }
+        }
+      } else {
+        setNumPreguntas((prev) => Math.min(prev, 100));
+        (document.getElementById("numPreguntas") as HTMLInputElement).max = "100";
+      }
+    };
+
+    actualizarLimitePreguntas();
+  }, [seleccionados]);
 
   const toggleArea = (area: string) => {
     const temasArea = temasPorArea[area as keyof typeof temasPorArea];
@@ -94,8 +124,8 @@ export default function SeleccionTest() {
       alert("Por favor, selecciona al menos un tema.");
       return;
     }
-    if (numPreguntas < 1 || numPreguntas > 100) {
-      alert("Elige entre 1 y 100 preguntas.");
+    if (numPreguntas < 1) {
+      alert("Elige al menos una pregunta.");
       return;
     }
 
@@ -103,7 +133,8 @@ export default function SeleccionTest() {
       "configTest",
       JSON.stringify({
         temas: seleccionados,
-        totalPreguntas: numPreguntas
+        totalPreguntas: numPreguntas,
+        temporizador: temporizador
       })
     );
 
@@ -112,7 +143,6 @@ export default function SeleccionTest() {
 
   return (
     <div className="min-h-screen bg-white text-gray-900">
-      {/* Header */}
       <header className="bg-white py-4 shadow">
         <div className="max-w-5xl mx-auto px-6 flex items-center justify-between">
           <h1 className="text-xl md:text-2xl font-bold tracking-wide text-yellow-500">LEGIPOL Quiz</h1>
@@ -122,16 +152,12 @@ export default function SeleccionTest() {
         </div>
       </header>
 
-      {/* Main Content */}
       <main className="max-w-5xl mx-auto px-6 py-10 space-y-8">
         <h2 className="text-2xl font-bold">Selecciona los Temas para tu Simulacro</h2>
 
-        {/* Tarjetas desplegables */}
         {Object.keys(temasPorArea).map((area) => {
           const temasArea = temasPorArea[area as keyof typeof temasPorArea];
-          const allSelected = temasArea.every((t) =>
-            seleccionados.includes(t)
-          );
+          const allSelected = temasArea.every((t) => seleccionados.includes(t));
 
           return (
             <section key={area}>
@@ -174,13 +200,13 @@ export default function SeleccionTest() {
           );
         })}
 
-        {/* Configuración final */}
         <div className="p-6 bg-white border border-gray-200 rounded-lg shadow-sm space-y-6">
           <h3 className="font-semibold text-lg">Configura tu Test</h3>
 
           <div>
             <label className="block mb-2 text-sm">Número de preguntas</label>
             <input
+              id="numPreguntas"
               type="number"
               min="1"
               max="100"
@@ -188,6 +214,19 @@ export default function SeleccionTest() {
               onChange={(e) => setNumPreguntas(Number(e.target.value))}
               className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-400"
             />
+          </div>
+
+          <div className="flex items-center gap-3">
+            <input
+              type="checkbox"
+              id="temporizador"
+              checked={temporizador}
+              onChange={() => setTemporizador(!temporizador)}
+              className="form-checkbox h-5 w-5 text-yellow-500 accent-yellow-500"
+            />
+            <label htmlFor="temporizador" className="text-sm font-medium">
+              Activar temporizador (50 minutos)
+            </label>
           </div>
 
           <button

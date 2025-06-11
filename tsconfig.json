@@ -33,7 +33,7 @@
     "**/*.tsx",
     "next-env.d.ts",
     ".next/types/**/*.ts"
-  ],
+, "scripts/importarTema02.js", "scripts/importarPreguntas.js", "scripts/importarPreguntasFirebase.js"  ],
   "exclude": [
     "node_modules"
   ]

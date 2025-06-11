@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LEGIPOL • Simulacro de Preguntas</title>
+  <!-- Tailwind vía CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Colores corporativos */
+    :root {
+      --legipol-blue: #082956;
+      --legipol-yellow: #F4D00C;
+    }
+    body {
+      background: #f8fafc;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-6 font-sans">
+  <div class="bg-white shadow-2xl rounded-xl p-10 w-full max-w-3xl space-y-6 border border-gray-100">
+    <div class="text-center">
+      <h1 class="text-3xl font-bold text-[color:var(--legipol-blue)]">LEGIPOL • Simulacro de Preguntas</h1>
+      <p class="text-gray-500 mt-2">Pregunta <span id="counter">1</span> de 3</p>
+    </div>
+
+    <!-- Pregunta -->
+    <div>
+      <h2 class="text-xl font-semibold text-gray-800 mb-4">¿Cuál es el emblema principal de la Policía Nacional de España?</h2>
+      <ul class="space-y-3">
+        <li class="p-4 rounded-lg border border-gray-200 hover:bg-[color:var(--legipol-yellow)] hover:text-[color:var(--legipol-blue)] transition cursor-pointer">
+          <label><input type="radio" name="q1" class="mr-2">A) El escudo con la Corona Real</label>
+        </li>
+        <li class="p-4 rounded-lg border border-gray-200 hover:bg-[color:var(--legipol-yellow)] hover:text-[color:var(--legipol-blue)] transition cursor-pointer">
+          <label><input type="radio" name="q1" class="mr-2">B) Las águilas y el león</label>
+        </li>
+        <li class="p-4 rounded-lg border border-gray-200 hover:bg-[color:var(--legipol-yellow)] hover:text-[color:var(--legipol-blue)] transition cursor-pointer">
+          <label><input type="radio" name="q1" class="mr-2">C) El haz de flechas y el yugo</label>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Navegación -->
+    <div class="flex justify-between">
+      <button class="px-6 py-3 rounded-lg text-white bg-[color:var(--legipol-blue)] hover:brightness-110 shadow-lg disabled:opacity-50" disabled>
+        <i class="fas fa-arrow-left mr-2"></i>Anterior
+      </button>
+      <button class="px-6 py-3 rounded-lg text-black bg-[color:var(--legipol-yellow)] hover:brightness-105 shadow-lg">
+        Siguiente<i class="fas fa-arrow-right ml-2"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Font Awesome (opcional para iconos) -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</body>
+</html>
